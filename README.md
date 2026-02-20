@@ -46,7 +46,6 @@ The dashboard enables users to explore:
 - Climate comparison analysis
 - Country-wise AQI ranking
 
-![Global Overview](images/global_overview.png)
 
 ---
 
@@ -57,7 +56,7 @@ The dashboard enables users to explore:
 - Weather condition comparison
 - Highest recorded temperature KPI
 
-![Temperature Analysis](images/temperature_analysis.png)
+ 
 
 ---
 
@@ -67,8 +66,7 @@ The dashboard enables users to explore:
 - AQI category distribution
 - Environmental implications insights
 
-![Air Quality Analysis](images/air_quality_analysis.png)
-
+ 
 ---
 
 ### 4️⃣ Safe Places Analysis
@@ -77,8 +75,7 @@ The dashboard enables users to explore:
 - Environmental drivers by safety category
 - Safe country identification
 
-![Safe Places Analysis](images/safe_places_analysis.png)
-
+ 
 ---
 
 ## 🛠 Tools & Technologies
@@ -101,4 +98,11 @@ The dashboard enables users to explore:
 
 ---
 
-## 📂 Repository Structure
+## 🚀 Author
+
+**Akash Jadhav**  
+Aspiring Data Analyst | Power BI | SQL | Python
+
+---
+
+## ⭐ If you like this project, consider giving it a star!
